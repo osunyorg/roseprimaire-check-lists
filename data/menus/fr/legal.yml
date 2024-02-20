@@ -9,8 +9,8 @@ items:
   target: "/politique-de-confidentialite/"
   kind: page
   children: []
-- title: Accessibilité
-  target: "/accessibilite/"
+- title: Déclaration d'accessibilité
+  target: "/declaration-d-accessibilite/"
   kind: page
   children: []
 - title: Plan du site
