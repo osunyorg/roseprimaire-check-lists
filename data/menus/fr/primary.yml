@@ -5,4 +5,8 @@ items:
   target: "/reseaux-sociaux/"
   kind: page
   children: []
+- title: Sites web
+  target: "/sites-web/"
+  kind: page
+  children: []
 
