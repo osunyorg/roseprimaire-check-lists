@@ -13,4 +13,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Produire du contenu responsable sur les réseaux-sociaux
+  target: "/produire-du-contenu-responsable-sur-les-reseaux-sociaux/"
+  kind: page
+  children: []
 
