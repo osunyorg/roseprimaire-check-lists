@@ -1,12 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: Réseaux sociaux
-  target: "/reseaux-sociaux/"
-  kind: page
-  children: []
 - title: Sites web
   target: "/sites-web/"
+  kind: page
+  children: []
+- title: Réseaux sociaux
+  target: "/reseaux-sociaux/"
   kind: page
   children: []
 - title: Newsletters
