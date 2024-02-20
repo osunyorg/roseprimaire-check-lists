@@ -73,19 +73,20 @@ contents:
   - kind: block
     template: pages
     title: >-
-      Renseigner un titre principal () unique et précis sur chaque page
+      
     ranks:
-      self: 2
+      self: false
+      children: 2
     data:
-      page: 
-        path: "/sites-web/"
-        slug: "sites-web"
-        file: "pages/sites-web/_index.html"
       show_main_description: false
-      show_descriptions: false
+      show_descriptions: true
       show_images: false
       layout: grid
       pages:
+        - path: "/ecriture-inclusive/"
+          slug: "ecriture-inclusive"
+          file: "pages/ecriture-inclusive/_index.html"
+          external: false
 
 
 
