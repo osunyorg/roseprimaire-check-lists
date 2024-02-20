@@ -9,4 +9,8 @@ items:
   target: "/sites-web/"
   kind: page
   children: []
+- title: Newsletters
+  target: "/newsletters/"
+  kind: page
+  children: []
 
