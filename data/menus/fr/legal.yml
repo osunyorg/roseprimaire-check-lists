@@ -17,4 +17,16 @@ items:
   target: "/declaration-d-accessibilite/"
   kind: page
   children: []
+- title: Déclaration d'accessibilité
+  target: "/declaration-d-accessibilite/"
+  kind: page
+  children: []
+- title: Plan du site
+  target: "/plan-du-site/"
+  kind: page
+  children: []
+- title: Plan du site
+  target: "/plan-du-site/"
+  kind: page
+  children: []
 
