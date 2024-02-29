@@ -5,4 +5,8 @@ items:
   target: "/mentions-legales/"
   kind: page
   children: []
+- title: Politique de confidentialité
+  target: "/politique-de-confidentialite/"
+  kind: page
+  children: []
 
