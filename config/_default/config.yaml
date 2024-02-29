@@ -10,3 +10,5 @@ params:
   logo:
     header: "/assets/images/logo.svg"
     footer: "/assets/images/logo-blanc.svg"
+  debug:
+     productionUrl: "https://checklists.roseprimaire.com"
