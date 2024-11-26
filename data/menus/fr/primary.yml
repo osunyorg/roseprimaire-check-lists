@@ -5,12 +5,15 @@ items:
   target: "/sites-web/"
   kind: page
   children: []
+  file: content/fr/pages/sites-web/_index.html
 - title: Réseaux sociaux
   target: "/reseaux-sociaux/"
   kind: page
   children: []
+  file: content/fr/pages/reseaux-sociaux/_index.html
 - title: Newsletters
   target: "/newsletters/"
   kind: page
   children: []
+  file: content/fr/pages/newsletters/_index.html
 
