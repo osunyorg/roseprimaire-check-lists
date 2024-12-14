@@ -5,15 +5,18 @@ items:
   target: "/sites-web/"
   kind: page
   children: []
+  path: "/pages/sites-web"
   file: content/fr/pages/sites-web/_index.html
 - title: Réseaux sociaux
   target: "/reseaux-sociaux/"
   kind: page
   children: []
+  path: "/pages/reseaux-sociaux"
   file: content/fr/pages/reseaux-sociaux/_index.html
 - title: Newsletters
   target: "/newsletters/"
   kind: page
   children: []
+  path: "/pages/newsletters"
   file: content/fr/pages/newsletters/_index.html
 
