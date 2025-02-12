@@ -2,6 +2,11 @@
 
 baseURL: https://checklists.roseprimaire.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: de3a00c7-86bc-40b4-8e92-9ae076a95413
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
